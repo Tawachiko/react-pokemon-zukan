@@ -25,3 +25,4 @@ type SpeciesName = {
       return '名前不明';
     }
   };
+  
